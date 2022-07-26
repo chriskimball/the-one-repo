@@ -1,7 +1,7 @@
 // Global variable and element selector
 var searchFormEl = $( '#search-input' );
 var characterFill = [];
-var lotrApiKey = 'wamtzXv_h1XiQdZTQkoc';
+var lotrApiKey = 'Na7_sXFM1XHocRtDpgqz';
 
 // Function to fetch all LOTR characters to populate an array for a jQueryUI autocomplete component 
 function getAllCharData () {

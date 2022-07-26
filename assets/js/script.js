@@ -4,7 +4,7 @@ var searchInputEl = $( '#search-value' );
 var favoriteInputEl = $( '#favorite-value' );
 
 // Global variables.
-var lotrApiKey = "wamtzXv_h1XiQdZTQkoc";
+var lotrApiKey = "Na7_sXFM1XHocRtDpgqz";
 var giphyApiKey = "Pv2YHiUAl6VaFAsN816cOhgxrE28iBKF";
 var favoriteCharacterList = [];
 var favFilePath = "not-fav.png";
